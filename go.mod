@@ -1,4 +1,4 @@
-module github.com/grafana/xk6-output-timescaledb
+module github.com/Kulivox/xk6-output-timescaledb-custom
 
 go 1.20
 
