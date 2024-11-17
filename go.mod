@@ -1,4 +1,4 @@
-module github.com/Kulivox/xk6-output-timescaledb-custom
+module github.com/Kulivox/xk6-output-timescaledb
 
 go 1.20
 
