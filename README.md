@@ -1,4 +1,4 @@
-# xk6-output-timescaledb
+# Custom fork of xk6-output-timescaledb - All credit goes to @AntonI for creating this patch
 
 `xk6-output-timescaledb` is a [k6 extension](https://k6.io/docs/extensions/) to send k6 metrics to TimescaleDB in a predefined schema.
 
